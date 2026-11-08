@@ -3,9 +3,9 @@
     "extensions": [
       {
         "name": "Olympus",
-        "version": "71",
+        "version": "72",
         "pkg": "com.ra.olympus_v17",
-        "apkUrl": "https://github.com/KALEDAu/ra-extensions/releases/download/v71/OlympusExtension.apk",
+        "apkUrl": "https://github.com/KALEDAu/ra-extensions/releases/download/v72/OlympusExtension.apk",
         "lang": "es",
         "nsfw": false,
         "className": "com.ra.olympus_v17.RaRealSourceJson"
