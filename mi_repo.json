@@ -1,0 +1,15 @@
+{
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Olympus",
+        "version": "57",
+        "pkg": "com.ra.olympus_v17",
+        "apkUrl": "https://github.com/KALEDAu/ra-extensions/releases/download/v57/OlympusExtension.apk",
+        "lang": "es",
+        "nsfw": false,
+        "className": "com.ra.olympus_v17.RaRealSourceJson"
+      }
+    ]
+  }
+}
